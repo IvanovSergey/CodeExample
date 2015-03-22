@@ -1,4 +1,4 @@
-matrix.calculator = {};
+‚‡Ô‚‡Ô‚‡Ô‚‡matrix.calculator = {};
 
 matrix.calculator.cache = {};
 matrix.calculator.data = {};
